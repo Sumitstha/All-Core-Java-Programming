@@ -1,0 +1,18 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#btn1Id{
+	-fx-background-color:lime;
+	-fx-text-fill:white;
+	
+}
+#btn2Id{
+	-fx-background-color:Blue;
+	-fx-text-fill:white;
+}
+#btn3Id{
+	-fx-background-color:aqua;
+	-fx-text-fill:white;
+}
+#btn4Id{
+	-fx-background-color:grey;
+	-fx-text-fill:white;
+}
